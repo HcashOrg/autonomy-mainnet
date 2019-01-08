@@ -1,0 +1,2 @@
+HC Autonomy Online
+HyperCash is an autonomous digital currency. With a hybrid consensus system, it is built to be a decentralized, sustainable, and self-ruling currency where stakeholders make the rules.1

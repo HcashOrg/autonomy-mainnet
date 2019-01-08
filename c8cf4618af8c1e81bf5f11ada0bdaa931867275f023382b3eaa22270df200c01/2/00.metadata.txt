@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1546952643,"name":"HC Autonomy Online","publickey":"eabd404e5a4ccaf1f78aead309200a07c7e8b1b2ee3d51aa9639f29f5bf577d6","signature":"477d7e7cf7121e472f469c46a13ea0ea8734630eafeefdc53e06d4033e98d32c990edbf54d6412f5465742dcb12731af971430852eb25e102d72ed804f9e1f00"}
