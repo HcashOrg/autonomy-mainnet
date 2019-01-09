@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1547036760,"name":"About HyperCash Autonomy OnLine","publickey":"eabd404e5a4ccaf1f78aead309200a07c7e8b1b2ee3d51aa9639f29f5bf577d6","signature":"5bbbf7fdf5aae679a07e9f82104a3caf1a1b70ae48a8c283bc79650d123a4257fd3834ef7457ac2c1f545a5e8bd3e570442f727f4605bde27fd3514587b0ac00"}
