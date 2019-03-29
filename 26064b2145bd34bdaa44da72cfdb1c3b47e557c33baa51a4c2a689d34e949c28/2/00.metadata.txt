@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1553824452,"name":"Improve HyperCash main net performance","publickey":"44aadd4dd3cb11369b7c91451e41ad6502d9d65629085bd9b7320c0c4e7b6244","signature":"f12d5fb31b7a8352595e9fccb8ce28a55faf1c91e014d9ced5e965c738c75be9724503654b95fe6e6733e762bee558a489095c67f5efe357e9ba7104bdf7a207"}
