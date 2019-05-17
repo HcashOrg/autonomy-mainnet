@@ -9,12 +9,13 @@ After a series of technical tests, HCASH development team has managed to optimis
 Technical plan details
 After this upgrade, HC’s TPS will increase by 200% up to 1,000, while block speed will be increased, reaching 60 seconds. 
 Optimise block reward reduction algorithm. Block rewards will continue to be reduced every 12,888 blocks, the reduction function however, will be adjusted from 999/1,000 + arithmetic progression parameter to 998/1,000 + arithmetic progression parameter.
+
 Vote for it
-Proposal will be released on HC Autonomy for community to review (from now to 18:00, 8th April)
-The community can vote for the proposal (from 18:00, 8th April to 18:00, 16th April)
+Proposal will be released on HC Autonomy for community to review (from now to 18:00, 22th May)
+The community can vote for the proposal (from 18:00, 18th May to 18:00, 22th May)
 Note: the proposal can only be approved by meeting the following requirement:
-votes that participate in proposal voting should be no less that 75% of the total amount of active votes
-b.votes that approve the proposal should be no less than 75% of the votes that participate in this proposal voting
+votes that participate in proposal voting should be no less that 10% of the total amount of active votes
+b.votes that approve the proposal should be no less than 10% of the votes that participate in this proposal voting
 
 Proposer 
 
