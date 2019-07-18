@@ -3,6 +3,7 @@ HAILP Deployment and Block Reward Distribution Adjustment Proposal
 
 Having fully developed the HCASH AI Lightning Protocol (HAILP), the HCASH tech team is now proposing its deployment on the HyperCash mainnet, along with a block reward distribution adjustment.
 
+
 **Proposal Background**
 
 On June 26th, 2019, the HCASH Foundation announced that the development of HCASH AI lightning protocol (HAILP) had been completed, with network testing to commence on July 1st. Testing during the public beta has been running smoothly and is expected to finish on July 31st. 
@@ -14,6 +15,7 @@ Therefore, the implementation of HAILP on the HyperCash mainnet is an important 
 As an additional supportive measure, the HCASH tech team have decided to adjust the block reward distribution ratio.
 
 For detailed information, please refer to the proposal details below.
+
 
 **Implementation Plan**
 
