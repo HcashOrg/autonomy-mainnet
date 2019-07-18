@@ -1,0 +1,1 @@
+{"version":1,"timestamp":1563461239,"name":"HAILP Deployment and Block Reward Distribution Adjustment Proposal","publickey":"8e9981cc077f120135ed4526345967aeea36f5ea1ef609e97dc634b24717927a","signature":"7d7b043d3d202ad46c17bf76fe59d933fafd6fa177c4cfafbd63594d4c464d9bc18f032b616babe91dc70f4b9fa5ffd79f95fa7478961a4fd8d754500c769a05"}
